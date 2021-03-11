@@ -23,7 +23,6 @@ const TeamDiscription = (props) => {
         marginTop:"35px",
         textAlign:"justify",
         padding:"30px",
-     
 
     }
     const fontAwsome={

@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router';
 import TeamDiscription from '../TeamDiscription/TeamDiscription';
-import Grid from '@material-ui/core/Grid';
+
 const TeamDetails = () => {
     const{info}=useParams();
     const[teamInfo,setTeamInfo]=useState([])
@@ -10,7 +10,7 @@ const TeamDetails = () => {
         fetch(url)
         .then(res => res.json())
         .then(data=>setTeamInfo(data.teams))
-    },[])
+    },[info])
     return (
        
            <div>
