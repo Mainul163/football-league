@@ -4,7 +4,7 @@ it is my first react router
 
 i  used this website reacthooks
 
-
+it ia a Single Page Application with dynamic posts of fake data loaded from REST API
 
 
 
