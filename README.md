@@ -1,5 +1,5 @@
 # My Project Name is football-league
-A Single Page Application with a dynamic posts of fake data loaded from REST API. 
+A Single Page Application with a dynamic posts of fake data loaded from REST API. it is a fully responsive using media query and bootstrap5
 
 Tools : React.js, REST API, React Router, Material UI, Netlify
 
