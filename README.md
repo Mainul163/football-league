@@ -1,10 +1,5 @@
 # My Project Name is football-league
-
-it is my first react router 
-
-i  used this website reacthooks
-
-it ia a Single Page Application with dynamic posts of fake data loaded from REST API
+A Single Page Application with a dynamic posts of fake data loaded from REST API. A user can see the dynamically loaded post and comments.
 
 
 
